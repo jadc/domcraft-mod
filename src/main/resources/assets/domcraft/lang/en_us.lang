@@ -1,0 +1,16 @@
+// Items
+item.domcoin.name=domcoin
+item.socks.name=Programmer Socks
+
+/// Records
+item.record_chungus.name=Music Disc
+item.record.record_chungus.desc=Endigo - Big Chungus
+
+// Blocks
+tile.domcoin_block.name=Block of domcoin
+
+// Entities
+entity.chungus.name=Big Chungus
+
+// Tabs
+itemGroup.domcrafttab=domcraft Mod

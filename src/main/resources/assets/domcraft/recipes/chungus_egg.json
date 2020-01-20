@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " d ",
+        "ded",
+        " d "
+    ],
+    "key": {
+        "e": {
+            "item": "minecraft:egg"
+        },
+        "d": {
+            "item": "domcraft:domcoin"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:spawn_egg",
+        "count": 1,
+        "nbt": {
+            "EntityTag": {
+                "id": "domcraft:chungus"
+            }
+        }
+    }
+}

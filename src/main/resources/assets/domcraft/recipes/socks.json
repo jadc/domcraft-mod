@@ -1,0 +1,14 @@
+
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": [
+        { "item": "minecraft:leather_boots" },
+        { "item": "domcraft:domcoin" }
+    ],
+ 
+    "result": {
+        "item": "domcraft:socks",
+        "count": 1
+    }
+}
