@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "gdg",
+        " g "
+    ],
+    "key": {
+        "g": {
+            "type": "forge:ore_dict",
+            "ore": "ingotGold"
+        },
+        "d": {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+    "result":
+    {
+        "item": "domcraft:domcoin",
+        "count": 1
+    }
+}

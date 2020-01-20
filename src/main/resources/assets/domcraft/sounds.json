@@ -1,0 +1,23 @@
+{
+    "entity.chungus.ambient": {
+        "category": "entity",
+        "subtitle": "entity.chungus.ambient",
+        "sounds": [{ "name":"domcraft:entity/chungus/ambient", "stream": true }]
+    },
+    "entity.chungus.hurt": {
+        "category": "entity",
+        "subtitle": "entity.chungus.hurt",
+        "sounds": [{ "name":"domcraft:entity/chungus/hurt", "stream": true }]
+    },
+    "entity.chungus.death": {
+        "category": "entity",
+        "subtitle": "entity.chungus.death",
+        "sounds": [{ "name":"domcraft:entity/chungus/death", "stream": true }]
+    },
+    
+    "record.chungus": {
+        "category": "music_disc",
+        "subtitle": "record.chungus",
+        "sounds": [{ "name":"domcraft:record/chungus", "stream": true }]
+    }
+}

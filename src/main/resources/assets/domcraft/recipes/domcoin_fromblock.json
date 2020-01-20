@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": [
+        { "item": "domcraft:domcoin_block" }
+    ],
+ 
+    "result": {
+        "item": "domcraft:domcoin",
+        "count": 9
+    }
+}

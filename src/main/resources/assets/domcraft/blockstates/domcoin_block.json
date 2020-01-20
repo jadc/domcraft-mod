@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "domcraft:domcoin_block" }
+    }
+}
