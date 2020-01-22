@@ -19,5 +19,20 @@
         "category": "music_disc",
         "subtitle": "record.chungus",
         "sounds": [{ "name":"domcraft:record/chungus", "stream": true }]
+    },
+    "record.guillotine": {
+        "category": "music_disc",
+        "subtitle": "record.guillotine",
+        "sounds": [{ "name":"domcraft:record/guillotine", "stream": true }]
+    },
+    "record.gman": {
+        "category": "music_disc",
+        "subtitle": "record.gman",
+        "sounds": [{ "name":"domcraft:record/gman", "stream": true }]
+    },
+    "record.hungry": {
+        "category": "music_disc",
+        "subtitle": "record.hungry",
+        "sounds": [{ "name":"domcraft:record/hungry", "stream": true }]
     }
 }

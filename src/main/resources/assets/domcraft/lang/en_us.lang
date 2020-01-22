@@ -1,10 +1,18 @@
 // Items
 item.domcoin.name=domcoin
 item.socks.name=Programmer Socks
+item.bucket_of_cumgus.name=Bucket of Cumgus
+
 
 /// Records
 item.record_chungus.name=Music Disc
 item.record.record_chungus.desc=Endigo - Big Chungus
+item.record_guillotine.name=Music Disc
+item.record.record_guillotine.desc=Death Grips - Guillotine
+item.record_gman.name=????? ????
+item.record.record_gman.desc=???? - ???
+item.record_hungry.name=Music Disc
+item.record.record_hungry.desc=dom64 - She is hungry
 
 // Blocks
 tile.domcoin_block.name=Block of domcoin
@@ -14,3 +22,9 @@ entity.chungus.name=Big Chungus
 
 // Tabs
 itemGroup.domcrafttab=domcraft Mod
+
+// Advancements
+advancements.domcraft.root.title=domcraft Mod
+advancements.domcraft.root.description=betflip all h OMG DOM I LOST ALL
+advancements.domcraft.consume_cum.title=Consume The Cum Chalice
+advancements.domcraft.consume_cum.description=Drink a Bucket of Cumgus
