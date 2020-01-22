@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": [
+        { "item": "domcraft:record_blank" },
+        { "item": "minecraft:rotten_flesh" }
+    ],
+ 
+    "result": {
+        "item": "domcraft:record_hungry",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        "ibi",
+        " i "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:stone"
+        },
+        "b": {
+            "item": "minecraft:stone_button"
+        }
+    },
+    "result":
+    {
+        "item": "domcraft:record_blank",
+        "count": 1
+    }
+}

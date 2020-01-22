@@ -5,6 +5,8 @@ item.bucket_of_cumgus.name=Bucket of Cumgus
 
 
 /// Records
+item.record_blank.name=Blank Music Disc
+item.record.record_blank.desc=Add to a recipe to create a new disc
 item.record_chungus.name=Music Disc
 item.record.record_chungus.desc=Endigo - Big Chungus
 item.record_guillotine.name=Music Disc

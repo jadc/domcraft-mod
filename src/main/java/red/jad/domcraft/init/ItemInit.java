@@ -28,6 +28,7 @@ public class ItemInit {
 	public static final ItemBucketOfCumgus BUCKET_OF_CUMGUS = new ItemBucketOfCumgus();
 	
 	/// Records
+	public static final ItemRecord RECORD_BLANK = new ItemCustomRecord("record_blank", null);
 	public static final ItemRecord RECORD_CHUNGUS = new ItemCustomRecord("record_chungus", SoundsHandler.RECORD_CHUNGUS);
 	public static final ItemRecord RECORD_GUILLOTINE = new ItemCustomRecord("record_guillotine", SoundsHandler.RECORD_GUILLOTINE);
 	public static final ItemRecord RECORD_GMAN = new ItemCustomRecord("record_gman", SoundsHandler.RECORD_GMAN);

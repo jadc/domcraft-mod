@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": [
+        { "item": "domcraft:record_blank" },
+        { "item": "minecraft:stick" }
+    ],
+ 
+    "result": {
+        "item": "domcraft:record_gman",
+        "count": 1
+    }
+}

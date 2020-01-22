@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients": [
+        { "item": "domcraft:record_blank" },
+        { "item": "minecraft:iron_sword" }
+    ],
+ 
+    "result": {
+        "item": "domcraft:record_guillotine",
+        "count": 1
+    }
+}
