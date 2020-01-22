@@ -10,7 +10,7 @@ public class SoundsHandler {
 	public static SoundEvent ENTITY_CHUNGUS_AMBIENT, ENTITY_CHUNGUS_HURT, ENTITY_CHUNGUS_DEATH;
 	
 	// Records
-	public static SoundEvent RECORD_CHUNGUS;
+	public static SoundEvent RECORD_CHUNGUS, RECORD_GUILLOTINE, RECORD_GMAN, RECORD_HUNGRY;
 	
 	public static void registerSounds() {
 		// Entities
@@ -20,6 +20,9 @@ public class SoundsHandler {
 		
 		// Records
 		RECORD_CHUNGUS = registerSound("record.chungus");
+		RECORD_GUILLOTINE = registerSound("record.guillotine");
+		RECORD_GMAN = registerSound("record.gman");
+		RECORD_HUNGRY = registerSound("record.hungry");
 	}
 	
 	private static SoundEvent registerSound(String name) {

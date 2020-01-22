@@ -1,0 +1,24 @@
+{
+    "parent": "minecraft:recipes/root",
+    "display": {
+        "title": {
+            "translate": "advancements.domcraft.consume_cum.title"
+        },
+        "description": {
+            "translate": "advancements.domcraft.consume_cum.description"
+        },
+        "icon": {
+            "item": "domcraft:bucket_of_cumgus"
+        }
+    },
+    "criteria": {
+        "consume_cum": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "domcraft:bucket_of_cumgus"
+                }
+            }
+        }
+    }
+}

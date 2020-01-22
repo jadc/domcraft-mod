@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "domcraft:domcoin"
+        },
+        "title": {
+            "translate": "advancements.domcraft.root.title"
+        },
+        "description": {
+            "translate": "advancements.domcraft.root.description"
+        },
+        "background": "domcraft:textures/blocks/domcoin_block.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "crafting_table": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "domcraft:domcoin"
+                    }
+                ]
+            }
+        }
+    }
+}
